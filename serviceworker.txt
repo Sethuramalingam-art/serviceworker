@@ -1,0 +1,6 @@
+
+https://developer.chrome.com/docs/workbox/service-worker-overview/
+https://www.loginradius.com/blog/engineering/guest-post/how-to-build-a-progressive-web-app-with-react/
+
+Service workers
+Service workers are specialized js assets that act as a proxies b/w web browsers and web servers.They aim to improve reliability by providing offline access, as well as boost page performance.
